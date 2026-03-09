@@ -1,0 +1,2 @@
+USERNAME="input username"
+PASSWORD='input password' 
